@@ -3,4 +3,5 @@
 \contentsline {section}{\numberline {}Введение}{4}{section.2}
 \contentsline {section}{\numberline {}1 Теоретическая часть}{5}{section.3}
 \contentsline {section}{\numberline {}2 Основная часть}{6}{section.4}
-\contentsline {section}{\numberline {}Заключение}{7}{section.5}
+\contentsline {section}{\numberline {}Заключение}{8}{section.5}
+\contentsline {section}{\numberline {}Литература}{9}{section.6}
