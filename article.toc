@@ -2,6 +2,13 @@
 \contentsline {section}{\numberline {}Задание на практику}{3}{section.1}
 \contentsline {section}{\numberline {}Введение}{4}{section.2}
 \contentsline {section}{\numberline {}1 Теоретическая часть}{5}{section.3}
-\contentsline {section}{\numberline {}2 Основная часть}{6}{section.4}
-\contentsline {section}{\numberline {}Заключение}{7}{section.5}
-\contentsline {section}{\numberline {}Литература}{8}{section.6}
+\contentsline {subsection}{\numberline {1.1}Позитивно-образованные формулы}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {1.2}Пример соответствия ПОВ и програмы на языке Prolog}{6}{subsection.3.2}
+\contentsline {section}{\numberline {}2 Основная часть}{7}{section.4}
+\contentsline {subsection}{\numberline {2.1}Упрощения}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {2.2}Логическая модель}{7}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Группа формул \Psi }{8}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Группа формул \Phi }{9}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Итоги}{9}{subsubsection.4.2.3}
+\contentsline {section}{\numberline {}Заключение}{10}{section.5}
+\contentsline {section}{\numberline {}Литература}{11}{section.6}
